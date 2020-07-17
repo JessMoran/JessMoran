@@ -1,6 +1,6 @@
 # Jess Moran
 
-
+Passionate front end developer who loves code, learn and teach.
 
 ## To run 
 - Download or fork the application from [here](https://github.com/JessMoran/JessMoran)
